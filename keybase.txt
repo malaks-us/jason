@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/casjay
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jason.malaks.us
+  * I am casjay (https://keybase.io/casjay) on keybase.
+  * I have a public key with fingerprint B79C DA40 B933 FB94 1F7D  D57C 4F76 5975 C1F0 EE5F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101373953656d100406ed0e114cd4513432751947d7d26c9b50f5eef2f388194caa0a",
+      "fingerprint": "b79cda40b933fb941f7dd57c4f765975c1f0ee5f",
+      "host": "keybase.io",
+      "key_id": "4f765975c1f0ee5f",
+      "kid": "0101373953656d100406ed0e114cd4513432751947d7d26c9b50f5eef2f388194caa0a",
+      "uid": "7e6362e006067364c73aea3200534100",
+      "username": "casjay"
+    },
+    "service": {
+      "hostname": "jason.malaks.us",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1594753612,
+  "expire_in": 157680000,
+  "prev": "4310d169d86fc8501ee4910018f69e3c0c27631b83f9aeaac2fbdcd912da87f3",
+  "seqno": 71,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNGAnicrVJrUFRlGF4uJq0irFwsKMszCrRs67lfVoRoCEEqClAjxZ1z+c5y2HV3
+27OLwA5OljcMREAyrRQjWi1oYnKExhsLFqnjRFHMxCiiSamB6NiEVlrfYexfP/v+
+fPO97/M83/O8856KDNPpQ/LLi33BmzesIWeDe3w665zQ5/2I4JIqEYsfsYPpCzgk
+oHqtdkVCLAiKoRjBEBxF0BQtYShKojSQUIBhpCiRFEaQBM5QGEcyEiPhtMgJFCpT
+AMi4TLAsrIs8j/KICZEVpw143B7F6YWyAsOJEk+iAkcQssCRmMxIEsWIpMzQFMdQ
+IiajAFAyJJa6VI0BzQm8CsyKC9bgwzpt7z/w/7Nv37QcA2iCxgGK0ijNEDQpMgQP
+eAJHUYogoboGVIHHya8DEC3yahlfiVSbEFgrV0SgjVXL8aBfxqsup3kd7+Dtqtmn
+QrLb4/K6RJcDNku9Xrdq0cjeSreGXg8E6wMdq6A4JThIyCgHHlVxORELBpGiV9GE
+MQrmgYkx3ISACrfiAVZFQ1AMzaLwaP+Acm1sBIZKGM1JLC2LLIViAJAcjIGxMs0B
+QkRFnKEJTGAJmYM5eRGXBUmUOAyXeJaRCURL9prThVgYDPrkbVBTVWxO3uvzAKS6
+N7gmXBei1z00I1TbMJ3+4eh/9066GnV/UfG7MQWbL6U31V5LLczz7fu6olBnjbWt
+iq/yO964fbFhlr438GX3E7Fvj4LJ+sIvDieu3V1/IH3vTzNXGpMLwfaPP8v8dPn2
+QHZP79DlWH3Y/tTgpY37q4fN3x4enoxgR3zH6cTxlfmOwdEFS3PaErrT6KV3Fzeb
+TtjTwkfkPnvg0IKs9obasm5jR1JfU92W8Q1H/ri9kHtu5is1TUMZXPT3B22RQ4bG
+0eFV7A8dPSM5p41Xtrpa7k+tPpBSlpARlzm7q/HE3aQnu3LPv/r4U5ltUWTke4Zl
+3ck78sd/wcea+/zNVeVJy0Y7x4/Om5ozpr+cfjwQ/bd5w4tIXS0+0Hhk4+8xk1Pn
+2vvat6r+gx/ZE85QtiVFVU//tcTQey9uVqyla/EuUi4YrvvqsdD467OFkmcGJmqK
+ZHueXFkxejLLdDaAv2PfciU35XS8aUL64OgKh6lzqDR+X1ZspWURy3W85dt7fdwQ
+91LgTnJLnvvzEHMX9tvPnVdzd6cc07ek5bStYCKNTEX9BFsUU1Hcbzz3yM1BBW0q
+2zZv4Myb97iansHE188b5lq++3FG+J/FrW1rThaszZ6/49HNYslO0Ts2v78nL7Jm
+T27DqVtRGde+aTX2XzgU8fJ6t+7DhQHh2FTpcsfFX/vvZHddeD/s1rM8tc3jj/5k
+blhQMjSXlLY2piZsukGvfmEoQvcP4Qmyog==
+=oDQt
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/casjay
+
+==================================================================
