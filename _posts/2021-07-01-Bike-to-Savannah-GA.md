@@ -8,11 +8,12 @@ date: 2021-07-04 20:12
 comments: true
 ---
 
-## Bike to Savannah, GA  
+## I would love to do this!!   
   
-This looks like an amazing bike ride....
-
-<center>
+This looks like an amazing bike ride....  
+And a true adventure!  
+  
+<center>  
   
 <a href="https://goo.gl/maps/QQGbwJGTrjpi6W8u6">Full Details</a>  
   
