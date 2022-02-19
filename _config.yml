@@ -13,7 +13,7 @@ tagline: "Just keep on going!"
 avatar: "https://avatars3.githubusercontent.com/u/126880?s=180&v=4"
 
 # full URI IE: /mysite { Do not add trailing / }
-baseurl: ""
+baseurl: "/jason"
 
 # set site author
 author:
