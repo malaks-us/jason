@@ -4,7 +4,7 @@ https://keybase.io/casjay
 
 I hereby claim:
 
-  * I am an admin of https://jason.malaks.us
+  * I am an admin of https://malaks-us.github.io/jason
   * I am casjay (https://keybase.io/casjay) on keybase.
   * I have a public key with fingerprint B79C DA40 B933 FB94 1F7D  D57C 4F76 5975 C1F0 EE5F
 
@@ -22,7 +22,7 @@ To do so, I am signing this object:
       "username": "casjay"
     },
     "service": {
-      "hostname": "jason.malaks.us",
+      "hostname": "malaks-us.github.io/jason",
       "protocol": "https:"
     },
     "type": "web_service_binding",

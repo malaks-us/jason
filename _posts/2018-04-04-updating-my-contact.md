@@ -10,4 +10,4 @@ categories: [blog]
 I am updating my contact page to include all site I can think of.  
 This page will probably grow a lot.  
   
-Check it out at [http://jason.malaks.us/contact](http://jason.malaks.us/contact)  
+Check it out at [http://malaks-us.github.io/jason/contact](http://malaks-us.github.io/jason/contact)  

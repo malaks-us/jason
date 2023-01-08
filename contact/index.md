@@ -16,7 +16,7 @@ I try to sign every commit so it can be verified
   
 ### Personal links  
 
-[jason.malaks.us](http://jason.malaks.us) - Main site  
+[malaks-us.github.io/jason](http://malaks-us.github.io/jason) - Main site  
 [memes.casjay.xyz](http://memes.casjay.xyz) - Mental Health Memes  
 [casjay.xyz](http://casjay.xyz) - Mental Health Site  
 [casjay.net](http://casjay.net) - Business Site  
@@ -92,6 +92,6 @@ Fax: (xXx) 520-8329
 [![Hack The Box](https://www.hackthebox.eu/badge/image/129685)](https://www.hackthebox.eu)  
   
 This is the image I am currently using for my profiles  
-[![Profile Image](https://avatars0.githubusercontent.com/u/126880?s=460&v=4)](http://jason.malaks.us)  
+[![Profile Image](https://avatars0.githubusercontent.com/u/126880?s=460&v=4)](http://malaks-us.github.io/jason)  
 [![Patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/casjay)
 [![Paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/casjaysdev)  
