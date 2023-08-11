@@ -7,4 +7,4 @@ comments: true
 categories: [blog]
 ---
 
-[https://radio.casjay.net](https://radio.casjay.net) is now up and running!  
+[https://radio.casjay.pro](https://radio.casjay.pro) is now up and running!  

@@ -19,7 +19,7 @@ I try to sign every commit so it can be verified
 [malaks-us.github.io/jason](http://malaks-us.github.io/jason) - Main site  
 [memes.casjay.xyz](http://memes.casjay.xyz) - Mental Health Memes  
 [casjay.xyz](http://casjay.xyz) - Mental Health Site  
-[casjay.net](http://casjay.net) - Business Site  
+[casjay.pro](http://casjay.pro) - Business Site  
   
 ### Phone/Fax  
 
@@ -28,7 +28,7 @@ Fax: (xXx) 520-8329
   
 ### E-Mail  
 
-[Primary E-mail:](http://client.casjay.net/) [Jason at casjay dot net](mailto:jason@casjay.net)  
+[Primary E-mail:](http://client.casjay.pro/) [Jason at casjay dot net](mailto:jason@casjay.pro)  
 [Google E-mail:](http://gmail.com/) [casjay at gmail dot com](mailto:Casjay@gmail.com)  
 [Yahoo E-mail:](http://ymail.com/) [casjay at yahoo dot com](mailto:Casjay@yahoo.com)  
 [Outlook E-mail:](http://outlook.com/) [casjay at outlook dot com](mailto:Casjay@outlook.com)  
@@ -36,8 +36,8 @@ Fax: (xXx) 520-8329
   
 ### Other E-mail  
 
-[Site Admin E-mail:](http://client.casjay.net/) [admin at casjay dot net](mailto:administrator@casjay.net)  
-[Mental Health E-mail:](http://client.casjay.net/) [health at casjay dot net](mailto:health@casjay.net)  
+[Site Admin E-mail:](http://client.casjay.pro/) [admin at casjay dot net](mailto:administrator@casjay.pro)  
+[Mental Health E-mail:](http://client.casjay.pro/) [health at casjay dot net](mailto:health@casjay.pro)  
   
 ### Chat  
 

@@ -13,7 +13,7 @@ apmpproject.org
 bugs.one  
 cachetagalong.com  
 casjay.cloud  
-casjay.net  
+casjay.pro  
 casjaydns.com  
 casjay.email  
 casjaygames.com  
@@ -21,11 +21,11 @@ casjayhak.com
 casjay.help  
 casjay.in  
 casjay.info  
-casjay.net  
+casjay.pro  
 casjay.one  
 casjay.org  
 casjay.recipes  
-casjaysdev.com  
+casjaysdev.pro  
 casjay.shop  
 casjay.tel  
 casjay.us  
