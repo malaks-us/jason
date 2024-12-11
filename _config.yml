@@ -33,6 +33,7 @@ github:
   user: casjay
   avatar: https://avatars2.githubusercontent.com/u/126880?s=200&v=4
   forkme: false
+  download: false
   layout: left-top
 
 # set url for the contact form
