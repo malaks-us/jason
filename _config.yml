@@ -14,12 +14,12 @@ avatar: "https://avatars2.githubusercontent.com/u/126880?s=200&v=4"
 url:
 
 # full URI IE: /mysite { Do not add trailing / }
-baseurl: "/jason"
+baseurl: "/"
 
 # set site author
-author: 
-  name: Jason 
-  site: https://malaks-us.github.io/jason
+author:
+  name: Jason
+  site: jason.malaks.us
 
 # set gallery image url
 gallery:
@@ -31,7 +31,7 @@ github:
   show: true
   repo: https://github.com/casjay
   user: casjay
-  avatar: 
+  avatar:
   forkme: false
   layout: left-top
 
